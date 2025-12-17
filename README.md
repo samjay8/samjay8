@@ -12,7 +12,7 @@ I am a data professional with a background in financial services, currently evol
 
 **The Build:** Engineered a robust SQL Server ETL pipeline to centralize fragmented security data.
 
-**The Result: **⚡ Reduced reporting turnaround from hours to seconds and significantly improved data integrity.
+**The Result:** ⚡ Reduced reporting turnaround from hours to seconds and significantly improved data integrity.
 
 [Explore the SQL Architecture](./financial-securities-sql-automation)
 
