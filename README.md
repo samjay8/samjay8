@@ -4,6 +4,8 @@
 
 I am a data professional with a background in financial services, currently evolving my expertise into Data Engineering. I thrive on building systems that don't just "show" data, but move and transform it efficiently.
 
+---
+
 #### **💼 Professional Experience & Impact**
 
 **Financial Securities Automation:**
@@ -16,7 +18,7 @@ I am a data professional with a background in financial services, currently evol
 
 [Explore the SQL Architecture](./financial-securities-sql-automation)
 
-
+---
 📊 **ABZ Limited | Credit Risk & Loan Analytics:** 
 
 **The Challenge:** Investigating a surge in loan defaults within a micro-lending portfolio.
@@ -27,19 +29,22 @@ I am a data professional with a background in financial services, currently evol
 
 [Explore the Analytics Case Study](./loan-default-analysis-pbi)
 
-
+---
 **🛠️ The Technical Toolbox** 
 
 ◽ Data Analysis & Visualization   🛠️ SQL Server   📊 Power BI (DAX, Power Query)   📉  Excel
 
 ◽ Data Engineering (The Evolution)   🐹 Go (Golang) — Currently building high-performance backend logic and learning concurrency.  
 
+---
 **🌱 What I'm Currently Building** 
 
 Right now, I am deep-diving into data engineering and Go (Golang) to understand the performance side of data processing. I'm moving beyond just analyzing data to building the high-speed engines that carry it.
 
-
+---
 **📫 Let's Talk Data** 
 
 🔵 [LinkedIn](www.linkedin.com/in/samuel-ojetunde)
 📧 [Email Me](samuelojetunde898@gmail.com)
+
+---
