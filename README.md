@@ -2,12 +2,12 @@
 
 # 👋 Hi, I'm Samuel Ojetunde
 
-### AI Engineer · Data Scientist-in-training · Open Source Contributor
+### AI Engineer · Data Science Student · Open Source Contributor
 
 I build AI-native software, automate the data pipelines that feed it, and ship in the open.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-samjay8.github.io/Academ-22d3ee?style=for-the-badge&logo=vercel&logoColor=white)](https://samjay8.github.io/Academ/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samuel--ojetunde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-ojetunde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samuel--ojetunde-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/samuel-ojetunde)
 [![Email](https://img.shields.io/badge/Email-samuelojetunde898%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelojetunde898@gmail.com)
 
 </div>
@@ -84,27 +84,27 @@ A responsive student portfolio and academic management site — homepage, projec
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=flat-square&logo=amazons3&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-232F3E?style=flat-square)
 
 **Data Analysis & Visualization**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **AI-Native Development**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6366F1?style=flat-square)
 
 **Tools & Environment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
 ![Unix Shell](https://img.shields.io/badge/Unix%20Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
