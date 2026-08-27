@@ -31,7 +31,7 @@ Every stop on that path — data analytics, backend engineering, open source —
 
 ## 💼 Professional Experience
 
-**Junior AI Fullstack Engineer** — Secondary City Tech _(Remote, Ogun, Nigeria)_ · Mar 2025 – Present
+**Junior AI Fullstack Engineer** — Secondary City Tech _(Remote, Ogun, Nigeria)_ · Mar 2026 – Present
 - Refactored a 3-slot image uploader into a single multi-file uploader with previews, memory cleanup, and upload-limit enforcement
 - Traced and verified the full upload pipeline: React → NestJS controller → FilesService → S3
 - Debugged and resolved AWS S3 connectivity and credentials configuration issues
